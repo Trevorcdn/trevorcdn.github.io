@@ -85,7 +85,7 @@ class Projects extends Component {
 
 							<div className="col-md-4 col-md-push-2 animate-box" data-animate-effect="fadeInRight">
 								<Link to="/Website">
-								<div className="project" style={{ backgroundImage: 'url(images/placeholder.png)' }}>
+								<div className="project" style={{ backgroundImage: 'url(images/portfolio2.png)' }}>
 									<div className="desc">
 										<div className="con">
 											<h3>Portfolio Website</h3>

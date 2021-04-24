@@ -8,6 +8,7 @@ class Resume extends Component {
                 <h1>Resume</h1>
                 <a href="/resume/NguyenTrevor-Resume.pdf" className="btn btn-primary btn-lg" target="_blank">View CV</a>
                 <a href="/resume/NguyenTrevor-Resume.pdf" className="btn btn-primary btn-lg" target="_blank" download>Download CV</a>
+
             </div>
         );
     }

@@ -38,7 +38,7 @@ class SalesAutomation extends Component {
                     <div className="video">
                         <div style={{ textAlign: "center" }}>
                             <iframe width="750" height="500" class="video"
-                                src="https://www.youtube.com/embed/cR7BVwR4Oyw" frameBorder="0">
+                                src="https://www.youtube.com/embed/4yHXCerUEqc" frameBorder="0">
                             </iframe>
                         </div>
                     </div>
